@@ -8,6 +8,7 @@ ObjectDetection - https://github.com/Real-Ascarre/College-Projects/tree/main/2nd
 
 # Projects in 3rd Semister
 1. AdminPanel, Api Callback and Authentication System - https://github.com/Real-Ascarre/College-Projects/tree/main/3rd%20Semister/Admin_Api_Auth%20System
-a) Live Version Download - https://github.com/Real-Ascarre/College-Projects/blob/main/3rd%20Semister/Admin_Api_Auth%20System/Old_App.apk
+
+Live Version Download - https://github.com/Real-Ascarre/College-Projects/blob/main/3rd%20Semister/Admin_Api_Auth%20System/Old_App.apk
 
 2. Anti-Debug Patch - Made as a simple College Debugging program fest - https://github.com/Real-Ascarre/College-Projects/tree/main/3rd%20Semister/AntiDebug
